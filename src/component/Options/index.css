@@ -1,0 +1,19 @@
+.button-element {
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+  color: #ffffff;
+  padding: 13px;
+  border-radius: 15px;
+  margin: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.button-element-activated {
+  background-color: #f3aa4e;
+  color: #ffffff;
+  padding: 13px;
+  border-radius: 15px;
+  margin: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}

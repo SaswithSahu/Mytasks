@@ -1,0 +1,28 @@
+.each-task-item {
+  background-color: #1a171d;
+  width: 100%;
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+  padding-left: 25px;
+  padding-right: 35px;
+  height: 60px;
+}
+.paragraph {
+  color: #ffffff;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 24px;
+}
+.tag {
+  background-color: #f3aa4e;
+  color: #323f4b;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 14px;
+  border: 0px;
+}

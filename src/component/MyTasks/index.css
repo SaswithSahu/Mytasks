@@ -1,0 +1,73 @@
+.app-container {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left-container {
+  background-color: #131213;
+  width: 30%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 200px;
+}
+.head {
+  color: #f3aa4e;
+  font-family: Roboto;
+  font-size: 46px;
+}
+.para {
+  color: #ffffff;
+  font-weight: 600;
+  font-family: Roboto;
+  width: 80%;
+  margin-bottom: 10px;
+}
+.input-element {
+  height: 40px;
+  width: 80%;
+  padding-left: 20px;
+  color: #64748b;
+  font-weight: 700;
+  outline: none;
+  margin-bottom: 20px;
+}
+.add-button {
+  background-color: #f3aa4e;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+  width: 80px;
+  padding: 5px;
+  box-sizing: 5px;
+  margin-top: 40px;
+}
+.right-container {
+  padding-top: 50px;
+  padding-left: 15px;
+  width: 70%;
+  height: 100vh;
+  background-color: #000000;
+}
+.head1 {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 46px;
+}
+.buttons-list {
+  list-style: none;
+  display: flex;
+  width: 90%;
+}
+.tasks-list {
+  list-style: none;
+  width: 100%;
+  margin-left: -30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
